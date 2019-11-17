@@ -1,0 +1,5 @@
+connectivipy-0.36
+pyedflib
+numpy
+pandas
+
