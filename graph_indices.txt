@@ -1,0 +1,134 @@
+Average clustering for open eyes matrix graph: 0.2916532140923494 
+Average shortest path lenght for open eyes matrix graph:  1.2098214285714286
+Top 10 highest degree channel for graph
+['P1..', 'F5..', 'Fz..', 'Po4.', 'F1..', 'F6..', 'Pz..', 'Af4.', 'F3..', 'P3..'] 
+
+Top 10 highest in-degree channel graph
+['Po4.', 'Fz..', 'F6..', 'Af4.', 'F1..', 'F3..', 'Oz..', 'Cpz.', 'Pz..', 'Po3.'] 
+
+Top 10 highest out-degree channel for graph
+['P1..', 'F5..', 'Af7.', 'Af3.', 'F7..', 'Ft7.', 'Fc6.', 'Fc5.', 'Fz..', 'T7..'] 
+
+Average clustering for closed eyes matrix graph: 0.3310676304882518 
+Average shortest path lenght for closed eyes matrix graph:  1.7589285714285714
+Top 10 highest degree channel for graph
+['F1..', 'F3..', 'Fz..', 'Po8.', 'Ft7.', 'Po3.', 'Poz.', 'Po4.', 'F4..', 'F6..'] 
+
+Top 10 highest in-degree channel graph
+['F3..', 'F1..', 'Fz..', 'Oz..', 'Fp1.', 'F6..', 'P8..', 'Af4.', 'F4..', 'Po3.'] 
+
+Top 10 highest out-degree channel for graph
+['Po8.', 'F1..', 'Poz.', 'Ft7.', 'Ft8.', 'P2..', 'P6..', 'Po7.', 'Po3.', 'Po4.'] 
+
+
+SMALL_WORLDNESS
+
+Run experiment for G_open
+number of nodes and edges for erdos renyi graph 64 399
+sigma 6.2991915707384045
+Graph is small world!
+for p =  0.1 sigma =  6.2991915707384045
+-------------------------------
+number of nodes and edges for erdos renyi graph 64 460
+sigma 4.7773277219440455
+Graph is small world!
+for p =  0.11 sigma =  4.7773277219440455
+-------------------------------
+number of nodes and edges for erdos renyi graph 64 500
+sigma 4.157311080107645
+Graph is small world!
+for p =  0.12 sigma =  4.157311080107645
+-------------------------------
+number of nodes and edges for erdos renyi graph 64 506
+sigma 3.935787537525452
+Graph is small world!
+for p =  0.13 sigma =  3.935787537525452
+-------------------------------
+number of nodes and edges for erdos renyi graph 64 530
+sigma 4.0672099618733375
+Graph is small world!
+for p =  0.14 sigma =  4.0672099618733375
+-------------------------------
+
+Run experiment for G_close
+number of nodes and edges for erdos renyi graph 64 392
+sigma 5.259391087037947
+Graph is small world!
+for p =  0.1 sigma =  5.259391087037947
+-------------------------------
+number of nodes and edges for erdos renyi graph 64 423
+sigma 4.270979313815294
+Graph is small world!
+for p =  0.11 sigma =  4.270979313815294
+-------------------------------
+number of nodes and edges for erdos renyi graph 64 443
+sigma 3.6318264988351197
+Graph is small world!
+for p =  0.12 sigma =  3.6318264988351197
+-------------------------------
+number of nodes and edges for erdos renyi graph 64 524
+sigma 3.10104836709857
+Graph is small world!
+for p =  0.13 sigma =  3.10104836709857
+-------------------------------
+number of nodes and edges for erdos renyi graph 64 534
+sigma 3.0260975436045396
+Graph is small world!
+for p =  0.14 sigma =  3.0260975436045396
+-------------------------------
+
+
+For weighted matrix
+
+Average clustering for open eye graph: 0.2916532140923494 
+Average shortest path lenght for open eye graph:  1.2098214285714286
+Top 10 highest degree channel for graph
+['P1..', 'F5..', 'Fz..', 'Po4.', 'F1..', 'F6..', 'Pz..', 'Af4.', 'F3..', 'P3..'] 
+
+Top 10 highest in-degree channel graph
+['Po4.', 'Fz..', 'F6..', 'Af4.', 'F1..', 'F3..', 'Oz..', 'Cpz.', 'Pz..', 'Po3.'] 
+
+Top 10 highest out-degree channel for graph
+['P1..', 'F5..', 'Af7.', 'Af3.', 'F7..', 'Ft7.', 'Fc6.', 'Fc5.', 'Fz..', 'T7..'] 
+
+Average clustering for closed eye graph: 0.35281968301435285 
+Average shortest path lenght for closed eye graph:  1.6118551587301588
+Top 10 highest degree channel for graph
+['F1..', 'F3..', 'Fz..', 'P8..', 'Po8.', 'F4..', 'P4..', 'Po3.', 'Ft7.', 'Poz.'] 
+
+Top 10 highest in-degree channel graph
+['Fp1.', 'Oz..', 'F1..', 'F4..', 'P8..', 'Fz..', 'F3..', 'Af4.', 'F2..', 'F6..'] 
+
+Top 10 highest out-degree channel for graph
+['P4..', 'P2..', 'F7..', 'F3..', 'F1..', 'Ft7.', 'Poz.', 'P5..', 'P6..', 'Po7.'] 
+
+
+
+Study the behaviour of global graph indices in function of network density for open eye graph
+Format: (Average Clustering, Average Shortest Path Lenght)
+for density  0.15 ---->
+0.2738245680620756 0.6899801587301587
+
+for density  0.2 ---->
+0.2916532140923494 1.2098214285714286
+
+for density  0.3 ---->
+0.29912802437810515 1.3742559523809523
+
+for density  0.5 ---->
+0.3711281791279416 2.3874007936507935
+
+Study the behaviour of global graph indices in function of network density for resting state graph
+Format: (Average Clustering, Average Shortest Path Lenght)
+
+for density  0.15 ---->
+0.3201634082899073 1.8799603174603174
+
+for density  0.2 ---->
+0.3310676304882518 1.7589285714285714
+
+for density  0.3 ---->
+0.36206745909375776 1.5766369047619047
+
+for density  0.5 ---->
+0.4066262551001674 1.6721230158730158
